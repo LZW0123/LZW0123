@@ -23,7 +23,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/LZW0123/count.svg) Vistor
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LZW0123&show_icons=true&theme=tokyonight) 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LZW0123&theme=dracula)](https://github.com/LZW0123/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LZW0123&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=LZW0123" /> </div>
 
